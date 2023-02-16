@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=yellow" alt="Profile views" /> </p>
 
 - 📚 Estagiário em Escola pública e licenciando em Matemática
-- 🎒 Bolsista no [CAPES](https://www.gov.br/capes/pt-br)
+- 🎒 Bolsista na [CAPES](https://www.gov.br/capes/pt-br)
 - 🤓 Atualmente estudando no [Instituto Federal de Educação Ciência e Tecnologia de São Paulo - Campi São Paulo](https://spo.ifsp.edu.br/)
 - 🎲 Competidor Profissional de **Cubo Mágico**
 - 🖥️ Atualmente mais focado em:
