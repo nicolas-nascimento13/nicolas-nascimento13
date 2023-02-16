@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **nicolas-nascimento13/nicolas-nascimento13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nicolas Nascimento aqui :)</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=cyan" alt="Profile views" /> </p>
+
+- 📚 Estagiário em Escola pública e licenciando em Matemática
+- 🎒 Bolsista no [CAPES](https://www.gov.br/capes/pt-br)
+- 🇧🇷 Atualmente estudando no [Instituto Federal de Educação Ciência e Tecnologia de São Paulo - Campi São Paulo](https://spo.ifsp.edu.br/)
+- 🎲 Competidor Profissional de **Cubo Mágico**
+- 🖥️ Atualmente mais focado em:
+<div style="display: inline">
+  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+</div>
+
+<br>
+<div>
+  <a href="https://github.com/nicolas-nascimento13">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicolas-nascimento13&show_icons=true&theme=gotham&title_color=1DE0BC&include_all_commits=false&count_private=true"/>
+   
+   <br>
+    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-nascimento13&layout=compact&langs_count=7&theme=gotham&title_color=1DE0BC"/>
+</div>
+
+##
+
+ <h3 align="left">Conecte-se comigo :) :</h3>
+<div>
+  <a href="mailto:nicolas.nascimento@aluno.ifsp.edu.br" target="_blank" rel="external">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  </a>  
+  
+  <a href="https://www.linkedin.com/in/nicolas-fonseca-nascimento/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
+ 
