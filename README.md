@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nicolas Nascimento aqui :)</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=cyan" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=yellow" alt="Profile views" /> </p>
 
 - 📚 Estagiário em Escola pública e licenciando em Matemática
 - 🎒 Bolsista no [CAPES](https://www.gov.br/capes/pt-br)
