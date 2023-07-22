@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 📚 Estagiário em Escola pública e licenciando em Matemática
 - 🎒 Bolsista na [CAPES](https://www.gov.br/capes/pt-br)
 - 🤓 Atualmente estudando no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campi São Paulo](https://spo.ifsp.edu.br/)
-- 🎲 Competidor Profissional de **Cubo Mágico**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
