@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <h2 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nicolas Nascimento aqui :)</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=yellow" alt="Profile views" /> </p>
 
-- 📚 Estagiário em Escola pública e licenciando em Matemática
 - 🎒 Bolsista na [CAPES](https://www.gov.br/capes/pt-br)
-- 🤓 Atualmente estudando no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campi São Paulo](https://spo.ifsp.edu.br/)
+- 📚 Atualmente estudando no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo](https://spo.ifsp.edu.br/)
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
