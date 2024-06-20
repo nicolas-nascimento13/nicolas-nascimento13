@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nicolas Nascimento aqui :)</h2>
+<h2 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nicolas Nascimento aqui :)</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=yellow" alt="Profile views" /> </p>
 
-- 🎒 Bolsista na [CAPES](https://www.gov.br/capes/pt-br)
-- 📚 Atualmente estudando no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo](https://spo.ifsp.edu.br/)
+- Analista de Riscos Corporativos (ERM) na [Nexa Resources](https://www.nexaresources.com/)
+- 📚 Aluno no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo](https://spo.ifsp.edu.br/)
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -37,17 +37,16 @@ Here are some ideas to get you started:
 
 ##
 
- <h3 align="left">Conecte-se comigo :) :</h3>
+ <h3 align="left"> :D </h3>
 <div>
   <a href="mailto:nicolas.nascimento@aluno.ifsp.edu.br" target="_blank" rel="external">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>  
   
-  <!-- 
   <a href="https://www.linkedin.com/in/nicolas-fonseca-nascimento/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  -->
+  
 </div>
 
  
