@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="left"> <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Nicolas Nascimento aqui :)</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolas-nascimento13&color=yellow" alt="Profile views" /> </p>
 
-- Analista de Riscos Corporativos (ERM) na [Nexa Resources](https://www.nexaresources.com/)
+- Estagiário em Análise de Riscos Corporativos (ERM) na [Nexa Resources](https://www.nexaresources.com/)
 - 📚 Aluno no [Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo](https://spo.ifsp.edu.br/)
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
